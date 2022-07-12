@@ -1,0 +1,22 @@
+{
+  "name": "srilu-backend-cypress",
+  "version": "1.0.0",
+  "description": "Srilu Practice API Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SriluBalla/srilu-backend-cypress.git"
+  },
+  "author": "Srilu Balla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SriluBalla/srilu-backend-cypress/issues"
+  },
+  "homepage": "https://github.com/SriluBalla/srilu-backend-cypress#readme",
+  "devDependencies": {
+    "cypress": "^10.3.0"
+  }
+}
